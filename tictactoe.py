@@ -75,7 +75,7 @@ def new_game():
             button[row][column].config(text="", bg="#f0f0f0")
 
 
-window = Tk()
+window = Tk() #hivcgbhjh
 window.title("tictactoe")
 players = ["X", "O"]
 player = random.choice(players)
